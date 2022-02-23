@@ -1,0 +1,714 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More cheap riches, or, Heavenly aphorismes viz. a third, or rather true first part of the pocket companion compleated : being 300 golden sayings more / faithfully copied out of the manuscripts of Mr. H.C. (that eminent and faithful servant of God, many years agoe deceased) by N.C.</title>
+            <author>Church, Nathanaell.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32913</idno>
+            <idno type="STC">Wing C3991</idno>
+            <idno type="STC">ESTC R37674</idno>
+            <idno type="EEBO-CITATION">16999938</idno>
+            <idno type="OCLC">ocm 16999938</idno>
+            <idno type="VID">105689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More cheap riches, or, Heavenly aphorismes viz. a third, or rather true first part of the pocket companion compleated : being 300 golden sayings more / faithfully copied out of the manuscripts of Mr. H.C. (that eminent and faithful servant of God, many years agoe deceased) by N.C.</title>
+                  <author>Church, Nathanaell.</author>
+               </titleStmt>
+               <extent>[10], 68 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M. for J. Rothwell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, torn, cropped, and tightly bound, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105689:1"/>
+            <p>More Cheap Riches: OR, HEAVENLY APHORISMES; <hi>VIZ.</hi> A Third, or rather true Firſt Part of the POCKET COM<g ref="char:EOLhyphen"/>PANION Compleated.</p>
+            <p>Being 300 <hi>Golden Sayings more:</hi> Faithfully Copied out of the Manu<g ref="char:EOLhyphen"/>ſcripts of Mr.<hi>H.C.</hi> (that eminent and faithful Servant of God, many years agoe Deceaſed.)</p>
+            <p>By <hi>N. C.</hi> Maſter of Arts of <hi>Emanuel</hi> Colledg in <hi>Cambridg.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Zach. 4.10.</hi>
+               </bibl> For who hath deſpiſed the Day of ſmall things? <hi>&amp;c.</hi>
+            </q>
+            <q>
+               <l>— <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </q>
+            <q>
+               <l>—et ineſt ſua gratia parvus.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D.M.</hi> for <hi>J. Rothwell</hi> at the Fountain in Cheapſide. 1660.</p>
+         </div>
+         <div type="transcriber_to_the_reader">
+            <pb facs="tcp:105689:2"/>
+            <pb facs="tcp:105689:2"/>
+            <head>Friendly Readers;</head>
+            <p>IF you be ſo to your own Souls, I ſhall neither care, nor queſtion whether you be ſo to me or no.</p>
+            <p>Let not, I pray, the Plainneſs, nor the Commonneſs of ſome of theſe Heavenly Aphoriſmes ren<g ref="char:EOLhyphen"/>der null the Total.</p>
+            <p>Are you Learned and knowing
+<pb facs="tcp:105689:3"/>men? then you know that a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> know not all of theſe. <hi>Non om<g ref="char:EOLhyphen"/>nia noſcimus Omnes.</hi>
+            </p>
+            <p>Neither are your ſelves uncon<g ref="char:EOLhyphen"/>cerned herein: you may be re<g ref="char:EOLhyphen"/>minded of what you do know, to do it. <hi>Etiam ſapientiſsimus eſt commonefaciendus.</hi>
+            </p>
+            <p>Is a Maſter-piece expected, that every man likes? we muſt pleaſe the beſt, not the moſt: <hi>Haud plu<g ref="char:EOLhyphen"/>ribus placendum: ſed puriori<g ref="char:EOLhyphen"/>bus.</hi>
+            </p>
+            <p>Is not this Piece ingenious e<g ref="char:EOLhyphen"/>nough, or ſufficiently quaint and curious? What? will you put up no Coyn but mill'd Pieces? Nor eate wholſome Food, be<g ref="char:EOLhyphen"/>cauſe the Diſhes are not bedect with Flowrs, or adorned with
+<pb facs="tcp:105689:3"/>Orange and Lymond Pieles? <hi>Je<g ref="char:EOLhyphen"/>anus rarò ſtomachus vulgaria tem<g ref="char:EOLhyphen"/>nit.</hi>
+            </p>
+            <p>Are there ſome ſmall Defaults or Imperfections in Writer or Printer? 'Tis as honorable to pardon; as comfortable to be pardoned: <hi>Humanum eſt errare: Divinum ignoſcere.</hi>
+            </p>
+            <p>If you have a ripe, cordial Pip<g ref="char:EOLhyphen"/>pin or Pearmain that is a little periſhed in one or two places, will you throw it wholly away? I trow not; no more then eat it wholly: but you'l chew the Beſt, and eſchew the Worſt. — <hi>Et ſorte tuâ contentus: Et. ſic hîc.</hi>—</p>
+            <p>Are the Phraſes too homely for theſe our critical Times? Here is more Wiſdome then Words. The beſt is at the Bot<g ref="char:EOLhyphen"/>tom:
+<pb facs="tcp:105689:4"/>like ſugered Wine; <hi>Po<g ref="char:EOLhyphen"/>tiora latent, quam patent.</hi>
+            </p>
+            <p>Is it needleſs in this bookiſh Age to caſt in theſe Mites into the Treaſury? Why? They are of the Remains of an eminent and godly man, whom, whoſoever knew, ſhall require none Encomi<g ref="char:EOLhyphen"/>aſtick, no more then the Work needs an Apologetick: <hi>Quippe Opus Authorem plaudat, &amp; Au<g ref="char:EOLhyphen"/>thor opus.</hi>
+            </p>
+            <p>Beſides theſe 300 make up his 200 Golden Sayings compleat 500 in all, of his own, beſides the 300 Silver ones of mine. Whereby he that hath an honeſt, wiſe, diligent heart, may make haſte to be rich, and yet be inno<g ref="char:EOLhyphen"/>cent; yea, be the more innocent and wiſe too: <hi>Prudens, ut Serpens:
+<pb facs="tcp:105689:4"/>innoxius utque Columba.</hi>
+            </p>
+            <p>Well: Shall they all be count<g ref="char:EOLhyphen"/>ed ſuch ordinary and common Notions, that ſome that are ex<g ref="char:EOLhyphen"/>traordinary amongſt them ſhall not make ſuperabundant ſatisfa<g ref="char:EOLhyphen"/>ction in Lieu of the reſt? Verily, any man of a modeſt Wit, and moderate Spirit, ſhall find ſome ſpecial benefit by every fift A<g ref="char:EOLhyphen"/>phoriſm of them: or elſe I have miſplaced ſome againſt my will.</p>
+            <q>— Si non: his utere mecum.</q>
+            <p>Thus hoping (friends) that you will be civil in your Demands, and praying, That you may not need to be hired to do your ſelves a Courteſie, I muſt embolden my ſelf to encourage you to beſtow a
+<pb facs="tcp:105689:5"/>Groat or Six pence upon your own or any of your poor Friends Souls (who probably will be glad of it after you have read it; if you be rich enough to ſpare it them) withal, aſſuring you, that if you practice it, you ſhall never repent the Price thereof; and that if you accept of what is beſt in it, you ſhall not need to except againſt what is worſt thereing. Further<g ref="char:EOLhyphen"/>more expect not great things, but reſpect what good things ye find here; and (in ſhort) I ſhall (if the LORD give Life and Leave) pacifie your Inquiſitive Appe<g ref="char:EOLhyphen"/>tites with an <hi>Obrizâ,</hi> more indu<g ref="char:EOLhyphen"/>ſtriouſly Elaborate. Deſpiſe not the Day of ſmall things, and then you ſhall ſee greater things then theſe, with him in the
+<pb facs="tcp:105689:5"/>Goſpel (<hi>John</hi> 1. laſt) and with</p>
+            <closer>
+               <signed>Your Friend without Guile (whether you be your own or no) <hi>NAT. CHURCH.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Chamber in</hi> Cambridge. <date>1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb facs="tcp:105689:6"/>
+            <pb n="1" facs="tcp:105689:6"/>
+            <head>HEAVENLY APHORISMES.</head>
+            <p n="1">1. <seg rend="decorInit">A</seg> 
+               <hi>Good</hi> Book is to be read, or heard with <hi>great</hi> At<g ref="char:EOLhyphen"/>tention.</p>
+            <p n="2">2. A <hi>wicked</hi> Man is the Devils <hi>Looking-glaſſe,</hi> wherein he ſees his <hi>own</hi> Image <hi>reflected.</hi>
+            </p>
+            <p n="3">3. The <hi>greateſt</hi> Favours have been ſhewn to the Saints <hi>moſt</hi> humbled.</p>
+            <p n="4">4. The Abſence of <hi>God</hi> is the De<g ref="char:EOLhyphen"/>ſire of the Wicked <hi>here,</hi> and the Curſe of the Damned <hi>hereafter.</hi>
+            </p>
+            <p n="5">5. <hi>Good</hi> Motions to the Reprobate are as Sparks to the Water, <hi>ſoon quenched.</hi>
+            </p>
+            <pb n="2" facs="tcp:105689:7"/>
+            <p n="6">6. <hi>Graces</hi> muſt be ſtill evermore <hi>tried</hi> and <hi>repaired,</hi> 2 Tim. 1.6. 2 Cor. 13.5.</p>
+            <p n="7">7. Thoſe that let their Virtues decay without Fear, ſhall die without Fa<g ref="char:EOLhyphen"/>vour, <hi>Ezek.</hi> 33.12, 13.</p>
+            <p n="8">8. Some men are in bondage to Sin, and ſome to Opinion, both are under Vaſſalage.</p>
+            <p n="9">9. The weight of Cares and Plea<g ref="char:EOLhyphen"/>ſures <hi>clogges</hi> the Soul; the weight of Afflictions <hi>preſſes</hi> the Mind.</p>
+            <p n="10">10. Thoſe that are <hi>old</hi> in Know<g ref="char:EOLhyphen"/>ledge ſhould be <hi>old</hi> in Gravity and Sobriety. See 1 <hi>Cor.</hi> 13.11.</p>
+            <pb n="3" facs="tcp:105689:7"/>
+            <p n="11">11. The chief cauſe of the Wick<g ref="char:EOLhyphen"/>edneſs of Youth, is want of <hi>timely</hi> and <hi>prudent</hi> Correction, <hi>Prov.</hi> 13.24. &amp; 19.18. &amp; 23.13, 14.</p>
+            <p n="12">12. Many are diſcontent at their eſtates, becauſe they ſee their <hi>own</hi> Diſcommodities, not <hi>others,</hi> Pſal. 37.1, 16.</p>
+            <p n="13">13. A Chriſtians Care in <hi>all</hi> Com<g ref="char:EOLhyphen"/>panies ſhould be either to <hi>do</hi> good, or <hi>receive</hi> good, <hi>Gal.</hi> 6.10. <hi>Heb.</hi> 13.16.</p>
+            <p n="14">14. The cauſes of diſtraction in Prayer, is, becauſe our Mindes are at <hi>other</hi> times too much <hi>eſtranged</hi> from <hi>God.</hi>
+            </p>
+            <p n="15">15. We ſhould obſerve where we <hi>profit</hi> moſt in Conference, and there <hi>often</hi> to Viſit, <hi>Mal.</hi> 3.16.</p>
+            <pb n="4" facs="tcp:105689:8"/>
+            <p n="16">16. The Remembrance of <hi>Death</hi> will beat down High-mindedneſſe and Earthly-mindedneſſe, <hi>Pſal.</hi> 39.5. <hi>Pſal.</hi> 49 6, 7, &amp;c.</p>
+            <p n="17">17. We ſhould labour to get Hea<g ref="char:EOLhyphen"/>venly Wiſdome, and having gotten it, <hi>well</hi> to <hi>imploy</hi> it, <hi>Prov.</hi> 4.5. with <hi>Luk.</hi> 12.48.</p>
+            <p n="18">18. The <hi>Truth</hi> of Grace mani<g ref="char:EOLhyphen"/>feſtly appears by the <hi>growth</hi> of Grace, <hi>Iſa.</hi> 22.3. <hi>Phil.</hi> 1.6.</p>
+            <p n="19">19. Let us labour for <hi>Conſcience:</hi> for the Devil hath great <hi>Knowledge</hi> and <hi>Science:</hi> Therefore called <hi>Daemon.</hi>
+            </p>
+            <p n="20">20. We ſhould firſt <hi>be</hi> Good, and then we ſhould labour to <hi>do</hi> Good like <hi>God himſelf.</hi> Pſal. 119.68.</p>
+            <pb n="5" facs="tcp:105689:8"/>
+            <p n="21">21. <hi>Worldly</hi> Men deſire <hi>Worldly</hi> Comfort; but the truly <hi>Religious</hi> de<g ref="char:EOLhyphen"/>ſire <hi>Spiritual</hi> comfort, <hi>Pſal.</hi> 4<g ref="char:punc">▪</g> 6, 7.</p>
+            <p n="22">22. <hi>Private</hi> Prayer is a note of Sincerity, if it be done <hi>ſincerely,</hi> from a ſincere Heart, <hi>Prov.</hi> 15.8, 29. <hi>Prov.</hi> 21.27.</p>
+            <p n="23">23. <hi>Known</hi> Hypocrites be hated of <hi>God</hi> and <hi>Man;</hi> of <hi>Man,</hi> for ma<g ref="char:EOLhyphen"/>king a <hi>ſhew,</hi> of <hi>God</hi> for having <hi>but</hi> a <hi>ſhew.</hi>
+            </p>
+            <p n="24">24 The World cannot <hi>abide</hi> Zeal, and <hi>God</hi> rejects Luke-warmneſs, <hi>Rev.</hi> 3.16. Let us <hi>conſider,</hi> which to <hi>fol<g ref="char:EOLhyphen"/>low,</hi> 1 King. 18.21.</p>
+            <p n="25">25. <hi>Every</hi> Accuſation is not a Condemnation, as in <hi>Job, Daniel, Chriſt,</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:105689:9"/>
+            <p n="26">26. A Man muſt be <hi>convicted</hi> by Law, before he be <hi>put from</hi> the Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="27">27. Many <hi>Profeſſors</hi> have <hi>fallen;</hi> but an <hi>humble</hi> Man I never heard of to be an <hi>Apoſtate.</hi> See <hi>Prov.</hi> 28.14. 1 <hi>Cor.</hi> 10.12.</p>
+            <p n="28">28. We carry corruption about us the <hi>beſt</hi> of us; therefore we ſhould be content to bear <hi>any</hi> Croſſe, or Trou<g ref="char:EOLhyphen"/>ble, <hi>Micah</hi> 7.9,</p>
+            <p n="29">29. Thoſe that have been <hi>grievous</hi> Sinners, need <hi>grievouſly</hi> to <hi>lament</hi> and <hi>mourn</hi> for Sin, that they may a<g ref="char:EOLhyphen"/>void <hi>grievous</hi> Yellings in Hell.</p>
+            <p n="30">30. Death is unwelcome to the <hi>un<g ref="char:EOLhyphen"/>godly rich</hi> man: <hi>Hope, Wealth, Soul</hi> and <hi>All</hi> goes.</p>
+            <pb n="7" facs="tcp:105689:9"/>
+            <p n="31">31. Wicked men <hi>lightly</hi> eſteem <hi>God</hi> and his Word and People: Good men <hi>baſely</hi> eſteem the Profits and Pleaſures of <hi>this</hi> Life, which the Worldling makes <hi>his</hi> God.</p>
+            <p n="32">32. If we cannot do what good we <hi>would,</hi> let us do what good we <hi>can,</hi> Gen. 4.7. 2 Cor. 8.12. and Chap. 9. ver. 7.</p>
+            <p n="33">33. <hi>Envy</hi> goes beyond <hi>Covetouſ<g ref="char:EOLhyphen"/>neſs,</hi> as we ſee in <hi>Herodias.</hi>
+            </p>
+            <p n="34">34. <hi>All this</hi> Life is our <hi>ſeeds-time,</hi> the Day of <hi>Judgment</hi> is the <hi>Har<g ref="char:EOLhyphen"/>veſt.</hi>
+            </p>
+            <p n="35">35. They that <hi>moſt</hi> mind <hi>God</hi> are <hi>moſt godly:</hi> See <hi>Pſal.</hi> 1.1, 2. <hi>Pſal.</hi> 10.4. <hi>Pſ.</hi> 119.97. &amp; 164 verſes.</p>
+            <pb n="6" facs="tcp:105689:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:105689:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:105689:11"/>
+            <p n="36">36 Sin, which is a Paſtime to a Fool, makes a <hi>good</hi> Man <hi>groan</hi> and <hi>grieve,</hi> and <hi>cry, O wretch that I am!</hi> Rom. 7.</p>
+            <p n="37">37. Some cry out againſt Pureneſs, becauſe they <hi>love</hi> Profaneneſs; and ſome cry out againſt Profaneneſs, be<g ref="char:EOLhyphen"/>cauſe they love Pureneſs.</p>
+            <p n="38">38. Either <hi>God</hi> will have our <hi>whole</hi> Hearts, or elſe the <hi>Devil.</hi>
+            </p>
+            <p n="39">39. The World and <hi>our</hi> Corrupti<g ref="char:EOLhyphen"/>ons are the Devils Harbingers to take up as <hi>much</hi> of our Hearts as they <hi>can</hi> for Him.</p>
+            <p n="40">40. <hi>Idle Books</hi> are as Scrapps to be thrown to the <hi>Doggs; good Books</hi> are as Meat for the <hi>Children.</hi>
+            </p>
+            <pb n="9" facs="tcp:105689:11"/>
+            <p n="41">41. There is a Neceſſity of being <hi>mocked,</hi> for either we ſhall be <hi>mock<g ref="char:EOLhyphen"/>ed</hi> of the World for Holineſs, or of <hi>God</hi> for Wickedneſs, <hi>Eccleſ.</hi> 11.9.</p>
+            <p n="42">42. The <hi>pooreſt</hi> Believer is better <hi>guarded</hi> then the <hi>greateſt</hi> Monarch; for they have the Protection of <hi>An<g ref="char:EOLhyphen"/>gels, Heb.</hi> 1. laſt.</p>
+            <p n="43">43. <hi>God</hi> promiſes Remiſſion to them that <hi>repent</hi> for Sin; but pro<g ref="char:EOLhyphen"/>miſes not Repentance to them that <hi>continue</hi> in Sin, <hi>Ezek.</hi> 33.11. <hi>Iſa.</hi> 55.7.</p>
+            <p n="44">44. We muſt uſe the <hi>pure</hi> Means with <hi>pure</hi> Hearts, if we mean to <hi>grow.</hi>
+            </p>
+            <p n="45">45. The <hi>heavy</hi> Burthen of Re<g ref="char:EOLhyphen"/>pentance is not to be laid on the ſhoulders of <hi>weak, feeble</hi> Old Age.</p>
+            <pb n="10" facs="tcp:105689:12"/>
+            <p n="46">46. At Death the Soules of the <hi>godly</hi> go to the <hi>Lord,</hi> and their Bo<g ref="char:EOLhyphen"/>dies with <hi>good</hi> Report to the Grave: as for the Wicked it is not ſo with <hi>them:</hi> See <hi>Pſal.</hi> 1.4, &amp;c.</p>
+            <p n="47">47. The <hi>uſing</hi> Wealth and Plea<g ref="char:EOLhyphen"/>ſures <hi>moderately</hi> is <hi>lawful:</hi> but to ſet our Hearts and Love upon them is <hi>un<g ref="char:EOLhyphen"/>lawful, Prov.</hi> 30.8. <hi>Eccleſ.</hi> 3.12, 13. 1 <hi>Joh.</hi> 2.15.</p>
+            <p n="48">48. To <hi>ſome God</hi> ſtands at the Door and <hi>knocks;</hi> but to <hi>ſome, He opens</hi> the Heart, as of <hi>Lydia,</hi> Act. 16.</p>
+            <p n="49">49. We are <hi>apt</hi> to be deceived; therefore 'tis often ſaid, <hi>Be not deceiv<g ref="char:EOLhyphen"/>ed,</hi> Gal. 6. Deut. 11.16. Eph. 5.5, 6, &amp;c. James 1.26.</p>
+            <p n="50">50. Thieves at the <hi>Gallowes pray,</hi> and <hi>read,</hi> and <hi>ſing</hi> Pſalmes, <hi>exhort</hi> O<g ref="char:EOLhyphen"/>thers, and ſpeak <hi>good</hi> Words; if they ſhould do ſo at <hi>Liberty,</hi> ſome would call them <hi>Puritans.</hi>
+            </p>
+            <pb n="11" facs="tcp:105689:12"/>
+            <p n="51">51. If we have <hi>Chriſt,</hi> we have <hi>all</hi> things; if we have not <hi>Chriſt,</hi> we are Uſurpers of <hi>all</hi> things, 1 <hi>Cor.</hi> 3.</p>
+            <p n="52">52. Conference with thoſe that are run into Errour, is <hi>dangerous;</hi> Their words <hi>fret</hi> as a <hi>Canker,</hi> 2 Tim. 2.17, 18.</p>
+            <p n="53">53. Thoſe that <hi>love</hi> the Truth, ſhall be <hi>preſerved</hi> from Errour, 2 <hi>Theſ.</hi> 2.10, 11, 12, &amp;c.</p>
+            <p n="54">54. The Rain falls from the Moun<g ref="char:EOLhyphen"/>tains, and makes <hi>fruitful</hi> the Valleys; ſo Grace reſts not on the <hi>proud,</hi> but on the <hi>humble,</hi> 1 Pet. 5.5.</p>
+            <p n="55">55. A <hi>covetous</hi> Worldling is like a <hi>ſumpter-Horſe,</hi> that at Night has the Burthen of the Treaſure taken away, and is left with a <hi>gall'd Back.</hi>
+            </p>
+            <pb n="12" facs="tcp:105689:13"/>
+            <p n="56">56. We are all <hi>Sinners;</hi> but there is a Difference of Sinners, ſome are <hi>repentant,</hi> ſome <hi>unrepentant</hi> Sinners; ſome Sinners ſhall be <hi>ſaved,</hi> ſome <hi>damned.</hi>
+            </p>
+            <p n="57">57. If we can find our ſelves <hi>chan<g ref="char:EOLhyphen"/>ged throughout,</hi> it will be a Conſolati<g ref="char:EOLhyphen"/>on to us all our Dayes, let the <hi>worſt</hi> that <hi>can,</hi> befall us.</p>
+            <p n="58">58. <hi>Mortified</hi> Chriſtians, are ſomewhat <hi>rare</hi> Creatures.</p>
+            <p n="59">59. Many pray <hi>by</hi> Heart, but not <hi>with</hi> the Heart.</p>
+            <p n="60">60. Some <hi>wicked</hi> men ſay to <hi>God, depart from us</hi> (Job 21.) <hi>God</hi> meets with them and ſaith, <hi>depart from me ye curſed,</hi> Mat. 25.</p>
+            <pb n="13" facs="tcp:105689:13"/>
+            <p n="61">61. The <hi>breaking</hi> of Vowes and Covenants with <hi>God</hi> is <hi>fearful,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>God regards</hi> not ſuch, <hi>Heb.</hi> 8.9. again, <hi>God</hi> hath no <hi>pleaſure</hi> in them, <hi>Eccl.</hi> 5.4. ſee Aph. 404, &amp;c.</p>
+            <p n="62">62. Let us remember our Vowes in <hi>Baptiſme,</hi> and the vowes we have made in our <hi>Troubles,</hi> Pſal. 50.14, 15, 23.</p>
+            <p n="63">63. Many <hi>bewail</hi> their Loſſes, but there was <hi>never</hi> any Loſs to be com<g ref="char:EOLhyphen"/>pared to the Loſs of <hi>Gods Image,</hi> which <hi>Adam</hi> had, but <hi>loſt</hi> it, and <hi>all</hi> our Care ſhould be to <hi>repair</hi> it.</p>
+            <p n="64">64. The <hi>Image</hi> of <hi>God</hi> is <hi>Know<g ref="char:EOLhyphen"/>ledge,</hi> Col. 3.10. <hi>Righteouſneſs and true Holineſſe</hi> (or the Holineſſe of Truth) <hi>Eph.</hi> 4.24.</p>
+            <p n="65">65. He that hath the <hi>Lord</hi> for his Portion ſhall be ſure <hi>never</hi> to be <hi>un<g ref="char:EOLhyphen"/>done.</hi>
+            </p>
+            <pb n="14" facs="tcp:105689:14"/>
+            <p n="66">66. So long as the faithful are <hi>in</hi> their wayes, and in the compaſſe of their callings, they have the protecti<g ref="char:EOLhyphen"/>on of Angels, <hi>Pſal.</hi> 91.</p>
+            <p n="67">67. The <hi>firſt Adam</hi> fell by Eating. <hi>Gen.</hi> 3. The <hi>ſecond Adam</hi> over<g ref="char:EOLhyphen"/>came by Faſting, <hi>Mat.</hi> 4.</p>
+            <p n="68">68. We ought to be <hi>earnest</hi> with <hi>God</hi> to give us his <hi>Spirit;</hi> He hath made a Promiſe to thoſe that <hi>pray,</hi> Luke 11.13. <hi>This Spirit</hi> will <hi>lead</hi> us into <hi>all</hi> Truth; <hi>John</hi> 16.13.</p>
+            <p n="69">69. He that hath found <hi>ſweetneſs</hi> in <hi>God,</hi> will leave his <hi>ſweet</hi> ſins.</p>
+            <p n="70">70. This 70 is the <hi>Age</hi> of Man, <hi>Pſal.</hi> 90. His Infancy, like a Dream; his Youth, like a Phrenſie; his Man<g ref="char:EOLhyphen"/>hood and Middle-Age, Labour and Miſery; his Age, Weakneſs; and his End, Sorrow.</p>
+            <pb n="15" facs="tcp:105689:14"/>
+            <p n="71">71. Our Life is a Moment, 2 <hi>Cor.</hi> 4.17. our Dayes <hi>few</hi> and <hi>evil,</hi> Gen. 47.9. Therefore to <hi>remember</hi> our Ends, and <hi>beware</hi> of Pride and Cove<g ref="char:EOLhyphen"/>touſneſſe. See <hi>Aph.</hi> 16.</p>
+            <p n="72">72. There is <hi>no</hi> Knowledge, nor Invention in the Grave, <hi>Eccleſiaſt.</hi> 9.10. <hi>And what man liveth and ſhall not ſee Death?</hi> Pſalm. 89.48.</p>
+            <p n="73">73. He that <hi>hungers earneſtly</hi> for Grace, doth but <hi>meanly eſteem</hi> the World.</p>
+            <p n="74">74. We ought to arm our ſelves, as for the Death of Friends, ſo for the Falſhood of them; both will <hi>grieve</hi> us.</p>
+            <p n="75">75. Many ſet <hi>light</hi> by Death, <hi>for<g ref="char:EOLhyphen"/>getting</hi> Hell, that <hi>followes</hi> Death; we need not <hi>fear</hi> the Priſon, if we can <hi>eſcape</hi> the Execution.</p>
+            <pb n="16" facs="tcp:105689:15"/>
+            <p n="76">76. <hi>Good</hi> Motions muſt go with Endeavours; when they are brought to Actions give God all the glory.</p>
+            <p n="77">77. We muſt firſt <hi>be</hi> good, and then we <hi>ſhall</hi> do good, <hi>ſee Aph.</hi> 20.</p>
+            <p n="78">78. 'Tis better to fall into an In<g ref="char:EOLhyphen"/>conveniency then a Miſchief; to ſuf<g ref="char:EOLhyphen"/>fer <hi>ſome</hi> Loſs, rather then to <hi>ſin.</hi>
+            </p>
+            <p n="79">79. Some men <hi>wonder</hi> at Others for being ſo <hi>expert</hi> in the Scripture, when they <hi>ſcarce once</hi> a Week <hi>themſelves</hi> read a Chapter in the Scripture.</p>
+            <p n="80">80. If we meet with a <hi>true-hearted Nathan,</hi> or <hi>angry Shimei,</hi> we ſhall <hi>hear</hi> of our Faults.</p>
+            <pb n="17" facs="tcp:105689:15"/>
+            <p n="81">81. The onely way to ſtop <hi>ſcanda<g ref="char:EOLhyphen"/>lous</hi> and <hi>clamorous</hi> peoples mouths, is to carry our ſelves <hi>uprightly</hi> and <hi>virtuouſly.</hi>
+            </p>
+            <p n="82">82. Malice and Anger makes ſome <hi>reveal</hi> that, which Love and Friend<g ref="char:EOLhyphen"/>ſhip made them keep <hi>ſecret.</hi>
+            </p>
+            <p n="83">83. Where there is <hi>no</hi> Preaching, the People are <hi>very rude</hi> and <hi>barba<g ref="char:EOLhyphen"/>rous,</hi> Prov. 29.18. with <hi>Jer.</hi> 8.9. and <hi>Mal.</hi> 2.7.</p>
+            <p n="84">84. Some find <hi>no</hi> Comfort in their Lives, becauſe they want Soundneſſe in their Hearts; their Conſcience will not let them have theſe <hi>outward</hi> Comforts, and their Covetouſneſſe keeps them from <hi>inward</hi> Com<g ref="char:EOLhyphen"/>forts.</p>
+            <p n="85">85. We can never <hi>ſuffer</hi> for that which we do not <hi>love.</hi> See <hi>Church-Incenſe.</hi>
+            </p>
+            <pb n="18" facs="tcp:105689:16"/>
+            <p n="86">86. We may try our Affections, whether they are <hi>good,</hi> or <hi>bad</hi> by this, if we are more <hi>apt</hi> to <hi>pray, read, heaer, &amp;c.</hi> then our Anger, Joy, Sor<g ref="char:EOLhyphen"/>row and Care is <hi>good:</hi> elſe <hi>away</hi> with theſe Affections, <hi>fight</hi> againſt them.</p>
+            <p n="87">87. An <hi>heavenly</hi> Affection and an <hi>heavenly</hi> Converſation make a man <hi>fit</hi> for Salvation.</p>
+            <p n="88">88. He that commits his <hi>weightieſt</hi> Affairs to <hi>God,</hi> by <hi>humble, fervent</hi> Prayer is very like to <hi>ſpeed,</hi> or elſe the <hi>more patiently</hi> to bear his Croſs.</p>
+            <p n="89">89. The Preſervation of a <hi>wicked</hi> man is but a Reſervation, <hi>unleſs</hi> he <hi>repent.</hi>
+            </p>
+            <p n="90">90. There is as much Difference between a <hi>ſound</hi> Chriſtian and a <hi>meer</hi> Worldling, as there is between a glaſs of <hi>cold</hi> water, and a glaſs of <hi>A<g ref="char:EOLhyphen"/>qua vitae.</hi>
+            </p>
+            <pb n="19" facs="tcp:105689:16"/>
+            <p n="91">91. There is nothing ſo <hi>ſure</hi> as <hi>God</hi> and his Promiſes.</p>
+            <p n="92">92. The cauſe of Diſtraction in Prayer is becauſe our Mindes at <hi>other</hi> times are <hi>too much eſtranged</hi> from <hi>God:</hi> the remedy is to walk more <hi>cloſely</hi> with <hi>God</hi> in Affection, then ſhall we pray with leſs Diſtraction.</p>
+            <p n="93">93. It is <hi>neceſſary</hi> to bid one ano<g ref="char:EOLhyphen"/>ther <hi>Take heed.</hi>
+            </p>
+            <p n="94">94. If two men walk in a Room, they ſee no Motes, except the Sun do <hi>ſhine</hi> and then they <hi>eſpy many;</hi> ſo be<g ref="char:EOLhyphen"/>fore the Holy Ghoſt do <hi>ſhine</hi> into our Hearts we ſee not our ſinfulneſs and <hi>manifold</hi> Corruptions.</p>
+            <p n="95">95. Pride and Wantonneſs, Envy and Covetouſneſs, are four Diſeaſes in a <hi>carnal</hi> mans Eyes.</p>
+            <pb n="18" facs="tcp:105689:17"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:105689:17"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:105689:18"/>
+            <p n="96">96. Some men are <hi>feaſted,</hi> and made <hi>much</hi> of a little <hi>before they are de<g ref="char:EOLhyphen"/>ſtroyed,</hi> as <hi>Haman, Amnon, Belſhaz<g ref="char:EOLhyphen"/>zar,</hi> &amp;c.</p>
+            <p n="97">97. The way to get Compaſſion is <hi>deeply</hi> to meditate on the Diſtreſſes of Others, and <hi>go</hi> to <hi>viſit</hi> them.</p>
+            <p n="98">98. Some cry out of <hi>ſhew,</hi> yet come <hi>ſhort</hi> of <hi>Hypocrites</hi> that <hi>have ſhew:</hi> theſe <hi>both</hi> want ſoundneſs.</p>
+            <p n="99">99. The Reaſon that there is ſuch a <hi>general</hi> Coldneſs in Religion is, be<g ref="char:EOLhyphen"/>cauſe there is ſo little <hi>holy</hi> Confer<g ref="char:EOLhyphen"/>ence.</p>
+            <p n="100">100. Humility lets <hi>other</hi> Graces into our ſoul: take away Humility and <hi>farewel</hi> all Life of Grace.</p>
+            <pb n="21" facs="tcp:105689:18"/>
+            <p n="101">101. The Thoughts of our <hi>bleſſed God</hi> do ſurmount <hi>other</hi> Thoughts, as <hi>God</hi> Himſelf ſurmounts other <hi>Things.</hi>
+            </p>
+            <p n="102">102. This Life is <hi>miſerable:</hi> the <hi>godly</hi> ſee their <hi>ſpiritual</hi> Miſeries; <hi>wicked</hi> men ſee <hi>onely bodily</hi> Miſeries.</p>
+            <p n="103">103. A <hi>through</hi> Change in Heart and Life, and Fruitfulneſſe in Grace gives a <hi>good</hi> Evidence of Sincerity.</p>
+            <p n="104">104. When we <hi>meditate</hi> of Hea<g ref="char:EOLhyphen"/>ven, let us <hi>ſtay</hi> and <hi>reſt</hi> our Thoughts <hi>there,</hi> being <hi>loath</hi> to let them <hi>ſink</hi> to Earth again.</p>
+            <p n="105">105. Our Hearts ſhould be <hi>ſo ſet</hi> upon <hi>God,</hi> that we ſhould <hi>break through All</hi> impediments to come unto Him.</p>
+            <pb n="22" facs="tcp:105689:19"/>
+            <p n="106">106. It is better to <hi>obey doubtfully,</hi> then to <hi>diſobey doubtfully.</hi>
+            </p>
+            <p n="107">107. We <hi>hate</hi> Puniſhment, becauſe it is contrary to <hi>our</hi> Nature; but <hi>love</hi> Sin, which is contrary to <hi>Gods</hi> Na<g ref="char:EOLhyphen"/>ture; by <hi>this</hi> we may <hi>try</hi> our ſelves, whether we love <hi>beſt, God,</hi> or our <hi>ſelves.</hi>
+            </p>
+            <p n="108">108. <hi>Spiritual</hi> Pride cauſes the <hi>Lord</hi> to <hi>withhold</hi> his Graces <hi>from us.</hi>
+            </p>
+            <p n="109">109 Miniſters are to be <hi>reverenced</hi> in the Hearts of men for their Holineſs, <hi>not</hi> for their Silks, nor Titles, nor <hi>great</hi> Livings.</p>
+            <p n="110">110. The <hi>beſt</hi> Man in the Pariſh, is not the <hi>richeſe</hi> Man, but the <hi>holieſt</hi> Man.</p>
+            <pb facs="tcp:105689:19"/>
+            <p n="111">111. We are to put difference between Reproofs to <hi>amend</hi> and Re<g ref="char:EOLhyphen"/>proaches to <hi>ſhame.</hi>
+            </p>
+            <p n="112">112. The Conſcience of a <hi>wicked</hi> Worldling, we know not how it <hi>pricks</hi> Him, no more then we do the Shoe that <hi>wrings</hi> his Foot, or the Tingling in the Ear, which <hi>none</hi> but a mans Self hears.</p>
+            <p n="113">113. He that makes <hi>haſte</hi> to be Holy, hath an <hi>holy</hi> Haſtineſs.</p>
+            <p n="114">114. Tis a matter of Commenda<g ref="char:EOLhyphen"/>tion, to have Knowledge and Specu<g ref="char:EOLhyphen"/>lation: 'tis a matter concerns Salva<g ref="char:EOLhyphen"/>tion to have <hi>good</hi> Conſcience and Converſation.</p>
+            <p n="115">115. <hi>God reſerves</hi> his Conſolati<g ref="char:EOLhyphen"/>ons till we <hi>need</hi> them; as we keep <hi>Aqua vitae.</hi>
+            </p>
+            <pb n="24" facs="tcp:105689:20"/>
+            <p n="116">116. We can hardly <hi>ſpeak</hi> of <hi>God<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Eſſence, unleſſe we name ſome of his Properties alſo (as <hi>holy, great, good bleſſed,</hi> &amp;c.)</p>
+            <p n="117">117. The World is a very <hi>dan<g ref="char:EOLhyphen"/>gerous</hi> Enemy, it makes of a Profeſ<g ref="char:EOLhyphen"/>ſor a <hi>Demas;</hi> nay, a <hi>Judas,</hi> if it <hi>con<g ref="char:EOLhyphen"/>quer.</hi>
+            </p>
+            <p n="118">118. The <hi>godly</hi> are <hi>jealous</hi> of Themſelves, and <hi>ſuffer</hi> Others to <hi>try</hi> them: the <hi>ungodly</hi> do <hi>neither.</hi>
+            </p>
+            <p n="119">119. Then are our Prayers <hi>good,</hi> when we <hi>begin</hi> begging in the ſenſe of our Wants, and <hi>end</hi> in finding <hi>Gods</hi> Mercy.</p>
+            <p n="120">120. To <hi>pray</hi> and <hi>hope</hi> for; to <hi>love</hi> and <hi>long</hi> for the Appearing of <hi>Chriſt,</hi> is the Property of a Saint.</p>
+            <pb n="25" facs="tcp:105689:20"/>
+            <p n="121">121. Ignorance of <hi>God</hi> is accom<g ref="char:EOLhyphen"/>panied with Unthankfulneſſe: how can he be <hi>truly thankful,</hi> that <hi>knows</hi> not <hi>God?</hi>
+            </p>
+            <p n="122">122. We are to labour to have a ſhare in <hi>Gods</hi> Mercy; <hi>then All</hi> His Attributes are <hi>for</hi> us, <hi>elſe</hi> they are <hi>a<g ref="char:EOLhyphen"/>gainſt</hi> us.</p>
+            <p n="123">123. Love endeavours to <hi>enjoy</hi> the thing <hi>beloved:</hi> here is Comfort, if <hi>once</hi> we can find <hi>God</hi> loves <hi>us</hi> (there will be Enjoyment.)</p>
+            <p n="124">124. <hi>Often</hi> Prayer with <hi>God,</hi> and <hi>ſeldom</hi> company with <hi>wicked</hi> men is the <hi>onely</hi> way to thrive.</p>
+            <p n="125">125. The ſtrong are to pray for the weak, that they <hi>fail</hi> not; the weak are to pray for the ſtrong, that they <hi>fall</hi> not.</p>
+            <pb n="26" facs="tcp:105689:21"/>
+            <p n="126">126. The Juſtice of God takes place, when his Mercy is <hi>abuſed.</hi>
+            </p>
+            <p n="127">127. Some men act the part of <hi>two</hi> men, in <hi>profane</hi> Company they would not be thought to be <hi>religious;</hi> in <hi>religious</hi> Company, they would not be thought to be <hi>profane.</hi>
+            </p>
+            <p n="128">128. Virtue ſtands <hi>between</hi> two Extremes.</p>
+            <p n="129">129. Hypocrites have no Appro<g ref="char:EOLhyphen"/>bation of <hi>themſelves</hi> for want of Sincerity: nor of <hi>others</hi> becauſe of Inconſtancy, for they <hi>break out</hi> One time, or Other.</p>
+            <p n="130">130. There is Mercy to be ſhewed both in Giving and Forgiving. (and for Giving)</p>
+            <pb n="27" facs="tcp:105689:21"/>
+            <p n="131">131. There is a Love of Mercy of God to us, and a Love of Duty of <hi>us</hi> to Him.</p>
+            <p n="132">1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. <hi>Wrangling</hi> Perſons are <hi>of<g ref="char:EOLhyphen"/>fenſive</hi> to <hi>whomſoever</hi> they <hi>jar</hi> with<g ref="char:EOLhyphen"/>all; to the <hi>learned</hi> they are a Grief, to the <hi>ignorant</hi> a Snare, to the <hi>indif<g ref="char:EOLhyphen"/>ferent</hi> a Trouble of Conſcience.</p>
+            <p n="133">133. A <hi>good</hi> Affection makes a <hi>good</hi> Conſtruction.</p>
+            <p n="134">134. We muſt love <hi>bad</hi> men with a love of <hi>good will, wiſhing</hi> their good: we muſt love <hi>good</hi> men with a love of Approbation, <hi>approving</hi> their Courſes, and <hi>deſiring</hi> their Company.</p>
+            <p n="135">135. When men look on <hi>Eternity,</hi> then they <hi>begin</hi> to be <hi>wiſe.</hi>
+            </p>
+            <pb n="28" facs="tcp:105689:22"/>
+            <p n="136">136. 'Tis the Property of Love to <hi>deſcend,</hi> rather then to <hi>aſcend.</hi>
+            </p>
+            <p n="137">137. There is Knowledge in the Brain, but <hi>ſaving</hi> Knowledge is joyned with <hi>Care</hi> and <hi>Conſcience;</hi> for example, <hi>moſt</hi> know <hi>Gods</hi> Name ſhould not be taken in <hi>vain;</hi> but <hi>few</hi> know this with Care and Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p n="138">138. <hi>Inward</hi> Sincerity, and <hi>out<g ref="char:EOLhyphen"/>ward</hi> Integrity muſt go <hi>together.</hi>
+            </p>
+            <p n="139">139. If we read the Scripture without diſtinctions, we do as they that <hi>walk</hi> in the <hi>dark,</hi> they <hi>know</hi> not whether they go: for example, <hi>God hears not Sinners,</hi> John 9. We muſt <hi>diſtinguiſh</hi> Sinners, <hi>penitent</hi> and <hi>im<g ref="char:EOLhyphen"/>penitent;</hi> and ſo in <hi>divers</hi> Other things.</p>
+            <p n="140">140. We are to take Counſel, leſt we <hi>neglecting</hi> it do <hi>ſmart.</hi>
+            </p>
+            <pb n="29" facs="tcp:105689:22"/>
+            <p n="141">141. The <hi>Children</hi> of <hi>God</hi> have <hi>more</hi> joy then Worldlings, <hi>Pſal.</hi> 4.3. <hi>laſt.</hi>
+            </p>
+            <p n="142">142. The <hi>inviſible God</hi> hath an <hi>in<g ref="char:EOLhyphen"/>viſible ſecret</hi> Curſe for the Wicked, and an <hi>inviſible ſecret</hi> bleſſing for the Godly, which we ſee not with the <hi>Eye.</hi>
+            </p>
+            <p n="143">143. <hi>
+                  <g ref="char:V">Ʋ</g>nfeigned</hi> Thankfulneſs is the Property of a <hi>Saint, Pſal.</hi> 145.10.</p>
+            <p n="144">144. <hi>God</hi> hath given us Under<g ref="char:EOLhyphen"/>ſtanding and Affections; to help theſe he gives Inſtruction and Exhor<g ref="char:EOLhyphen"/>tation: Inſtruction breeds <hi>cleer</hi> Un<g ref="char:EOLhyphen"/>derſtanding, Exhortation breeds <hi>good</hi> Affections.</p>
+            <p n="145">145. Learning <hi>lives,</hi> and Virtue <hi>ſhines</hi> Folly <hi>beggs,</hi> and Ignorance <hi>pines.</hi>
+            </p>
+            <pb n="30" facs="tcp:105689:23"/>
+            <p n="146">146. <hi>Chriſts</hi> Word ſhould dwell in us <hi>richly,</hi> in <hi>all wiſdom.</hi> In ſome 'tis <hi>ſcanty,</hi> in others 'tis not in <hi>wiſ<g ref="char:EOLhyphen"/>dom,</hi> though they have <hi>variety</hi> of Scriptures in their mouths.</p>
+            <p n="147">147. To <hi>abſtain</hi> from <hi>groſſe</hi> Sinns, to live <hi>civilly,</hi> to have the ſhew of Holineſs will not ſerve, except we have the power of Godlineſs.</p>
+            <p n="148">148. He that makes the <hi>barren</hi> Woman a <hi>joyful</hi> Mother of Children, can make our <hi>barren</hi> Hearts <hi>fruitful</hi> in Graces.</p>
+            <p n="149">149. We are as Meat in Summer: If it hath <hi>not</hi> Salt, it will <hi>ſtink:</hi> ſo unleſs we have Grace, we ſhall <hi>ſtink</hi> before God.</p>
+            <p n="150">150 We are commanded to be Students; and all our Study muſt be for Quietneſs <hi>here,</hi> and for <hi>eternal reſt hereafter:</hi> ponder 2 <hi>Theſ.</hi> 4.11. <hi>Heb.</hi> 4.11.</p>
+            <pb n="31" facs="tcp:105689:23"/>
+            <p n="151">151. When we come to <hi>meditate</hi> we ſhould firſt pray to God to tie up Sathan, and inable us to <hi>minde</hi> the <hi>onely</hi> thing which we are <hi>about.</hi>
+            </p>
+            <p n="152">152. Reverend Preachers have the tongue of the Learned, <hi>Iſa.</hi> 50. We ſhould go to <hi>ſuch</hi> to <hi>reſolve</hi> our Doubts. Pride or Ignorance cauſes the Neglect of this.</p>
+            <p n="153">153. When we ſee Others of <hi>our</hi> Rank go <hi>before</hi> us in Grace, we muſt think they have been <hi>more earneſt</hi> in Prayer then we have been.</p>
+            <p n="154">154. Recreation to our Labour ſhould be <hi>moderate,</hi> like Salt unto our Meat.</p>
+            <p n="155">155. A <hi>miſerable</hi> thing for a man to <hi>outlive</hi> his Happineſs: A <hi>Wicked</hi> man at the End of this Life, all his Happineſs is <hi>gone.</hi>
+            </p>
+            <pb n="32" facs="tcp:105689:24"/>
+            <p n="156">156. Our Faith muſt be examined by our Conſolation and Sanctifica<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="157">157. The <hi>talleſt</hi> Trees have their Roots <hi>deepeſt</hi> in the Earth; and the <hi>greateſt</hi> men have <hi>moſt</hi> earthly Mindes.</p>
+            <p n="158">158. The Graſſe-hopper in the Storm flies to the Hedge for Succour, but when the Sun <hi>ſhines,</hi> hopps away; ſo do many in Adverſity flee to the Lord, but in Proſperity run <hi>from</hi> Him.</p>
+            <p n="159">159. <hi>Set your hearts on your way,</hi> Hagg. 1.5. We muſt like Travellers keep our ſelves in the <hi>right</hi> way, and <hi>mind</hi> it. <hi>Set your hearts on your way.</hi>
+            </p>
+            <p n="160">160. It muſt be Death, or Villany, that makes me <hi>caſt</hi> off an <hi>old</hi> Friend.</p>
+            <pb n="33" facs="tcp:105689:24"/>
+            <p n="161">161. The <hi>ancient</hi> Patriarks not affecting <hi>gorgeous</hi> Buildings were <hi>contented</hi> to dwell in Tents, <hi>Heb.</hi> 11.9, 10. See ch. 13.14.</p>
+            <p n="162">162. Our <hi>whole</hi> Life ſhould be a Life of Faith, 2 <hi>Cor.</hi> 5, 7. <hi>Gal.</hi> 2.20. 1 <hi>Pet.</hi> 1.5. <hi>Hab.</hi> 2.4. <hi>The Juſt ſhall live by Faith.</hi>
+            </p>
+            <p n="163">163. Faith <hi>overcomes all</hi> Difficul<g ref="char:EOLhyphen"/>ties in <hi>Gods</hi> ſervice, <hi>viz.</hi> That may <hi>hinder</hi> our Obedience, <hi>Gen.</hi> 12.1. to 6. <hi>Joſ.</hi> 6.6. <hi>Judg.</hi> 7.7. <hi>Luk.</hi> 5.4, 5.</p>
+            <p n="164">164. <hi>Outward</hi> Worſhip the Devil may have; but I deſire to worſhip <hi>God</hi> in <hi>Spirit</hi> and <hi>Truth,</hi> as <hi>Joh.</hi> 4.34.</p>
+            <p n="165">165. <hi>Our God</hi> a <hi>conſuming</hi> Fire: <hi>Our God,</hi> our <hi>good</hi> and <hi>merciful God,</hi> a <hi>conſuming</hi> Fire to the <hi>wicked,</hi> 2 Cor. 1.3. Heb. 10.31. and <hi>ch.</hi> 12. <hi>ult.</hi>
+            </p>
+            <pb n="34" facs="tcp:105689:25"/>
+            <p n="166">166. He that <hi>now mokes</hi> the Child of God, ſhall <hi>one</hi> Day be made a <hi>laughing-ſtock</hi> to God, Men and Angels, if unrepentant.</p>
+            <p n="167">167. When <hi>once</hi> we have <hi>felt</hi> the power of godlineſs, the Sabbath will not be a burthen to us.</p>
+            <p n="168">168. When I have <hi>ſinned,</hi> I find my ſelf <hi>troubled</hi> in Mind: <hi>Bleſſed be God</hi> for <hi>this</hi> Trouble, I were <hi>miſerable</hi> without it.</p>
+            <p n="169">169. When <hi>publick</hi> means <hi>fail,</hi> we muſt be <hi>more earneſt</hi> in uſing <hi>private;</hi> as Barge-men labour with Oares, when the Wind ſerves not the Sail.</p>
+            <p n="170">170. In <hi>this</hi> World are <hi>good</hi> men and <hi>bad.</hi> In Heaven all <hi>good,</hi> in Hell all <hi>bad.</hi>
+            </p>
+            <pb n="35" facs="tcp:105689:25"/>
+            <p n="171">171. <hi>Goods</hi> be ſo called, not that they <hi>make</hi> a man <hi>good,</hi> but in regard that he may <hi>do</hi> good <hi>with</hi> them.</p>
+            <p n="172">172. We ſin <hi>ofteneſt</hi> in Company and at Meats; Lord, let thy Grace <hi>aſſiſt</hi> me when I have <hi>moſt</hi> need of thy help.</p>
+            <p n="173">173. <hi>Onely</hi> by Pride comes Con<g ref="char:EOLhyphen"/>tention, I will <hi>labour</hi> for Humility, ſo ſhall I have <hi>much</hi> Peace and Qui<g ref="char:EOLhyphen"/>etneſs.</p>
+            <p n="174">174. <hi>God</hi> is <hi>wonderful</hi> in All his works; but the <hi>common <g ref="char:V">Ʋ</g>ſe</hi> and Sight of them makes us <hi>forget</hi> Ad<g ref="char:EOLhyphen"/>miration</p>
+            <p n="175">175. <hi>Worldly</hi> men like Spunges, all their <hi>Life-time</hi> receiving in goods, at Death <hi>All wrung out.</hi>
+            </p>
+            <pb n="36" facs="tcp:105689:26"/>
+            <p n="176">176. I am ſtill employed about my <hi>Trade,</hi> but <hi>Lord</hi> teach me the Trade of my Way, the Way of <hi>thy</hi> Sta<g ref="char:EOLhyphen"/>tutes.</p>
+            <p n="177">177. They that <hi>reject</hi> the Word of the <hi>Lord</hi> have <hi>no</hi> wiſdom; they then that <hi>embrace Gods</hi> Word, are <hi>truly-wiſe.</hi>
+            </p>
+            <p n="178">178. The way to an <hi>holy</hi> Life is not to go from the Company of Men: but by labouring to be a <hi>new</hi> Man.</p>
+            <p n="179">179. <hi>Adams</hi> Eſtate was not ſo good as a <hi>regenerate</hi> mans Eſtate: for he has a Mediatour, which <hi>Adam</hi> had not.</p>
+            <p n="180">180. We bid our Children not come <hi>neer</hi> the Brink of the River; we our Selves ſhould avoid the <hi>Occa<g ref="char:EOLhyphen"/>ſions</hi> of Sin.</p>
+            <pb n="37" facs="tcp:105689:26"/>
+            <p n="181">181. <hi>Pſal.</hi> 55.21. Becauſe <hi>they have no Changes, therefore they fear not God.</hi> This makes their <hi>Proſperi<g ref="char:EOLhyphen"/>ty their ruine.</hi>
+            </p>
+            <p n="182">182. In <hi>evil</hi> Company I am brought to <hi>conſider</hi> Sathans Malice in thoſe where he <hi>rules;</hi> and <hi>Gods</hi> Mer<g ref="char:EOLhyphen"/>cy in drawing Me from a <hi>natural</hi> E<g ref="char:EOLhyphen"/>ſtate.</p>
+            <p n="183">183. I have a thouſand things to <hi>grieve</hi> for, a thouſand things to <hi>re<g ref="char:EOLhyphen"/>joyce</hi> in. For my Life is ſpent in the Entercourſe of theſe two.</p>
+            <p n="184">184. I ſee many men have good <hi>civil</hi> Parts; but are <hi>unſavoury</hi> for want of <hi>true</hi> Grace.</p>
+            <p n="185">185. The Devil <hi>believes,</hi> becauſe he <hi>feels:</hi> Wicked men will not be<g ref="char:EOLhyphen"/>lieve <hi>till</hi> they feel.</p>
+            <pb n="38" facs="tcp:105689:27"/>
+            <p n="186">186. Thoſe that fight a <hi>ſingle</hi> Combate are <hi>contrary</hi> to Chriſt: Chriſt died to <hi>ſave</hi> mens Lives; theſe <hi>live</hi> to <hi>take away</hi> mens Lives.</p>
+            <p n="187">187. The Baptizing of Children, the <hi>holy</hi> Trinity, the <hi>Catholick</hi> Church, the Sabbath of the New Teſtament, with <hi>many</hi> other things, be proved by Conſequence; not ex<g ref="char:EOLhyphen"/>preſſed <hi>directly</hi> in Syllables.</p>
+            <p n="188">188. The way to get honor, is to <hi>honor God,</hi> but <hi>moſt</hi> men take a <hi>con<g ref="char:EOLhyphen"/>trary</hi> Courſe.</p>
+            <p n="189">189. The forgetfulneſſe of <hi>Gods</hi> Preſence, the main cauſe of all Sin and Wickedneſs: the Perſwaſion of <hi>Gods</hi> Preſence, the Ground of true Holineſs and Obedience.</p>
+            <p n="190">190. When I conſider <hi>Gods</hi> Mer<g ref="char:EOLhyphen"/>cies: when I conſider my Sins: I ſay, <hi>'Tis thy Goodneſs, I am no deſtroyed:</hi>
+            </p>
+            <pb n="39" facs="tcp:105689:27"/>
+            <p n="191">191. Chriſt is <hi>Alpha</hi> and <hi>Omega:</hi> Be not like the worldling to make him <hi>Omega</hi> only: but let him be to thee <hi>Alpha: begin</hi> all things in his Name.</p>
+            <p n="192">192. In the things of this World we choſe the <hi>beſt:</hi> So we ſhould in <hi>Spirituals:</hi> The <hi>beſt God,</hi> the <hi>beſt</hi> Book, the <hi>beſt</hi> Company, the <hi>beſt</hi> Knowledg: herein we are Wiſe, or Fools in our Choice.</p>
+            <p n="193">193. In Prayer we muſt have a Feeling of our wants and Earneſtneſs: Earneſtneſs makes our Prayer availe<g ref="char:EOLhyphen"/>able.</p>
+            <p n="194">194. A man may be baniſht from <hi>good</hi> Books, and <hi>good</hi> company: but <hi>never</hi> from private Prayer.</p>
+            <p n="195">195. Envy is <hi>Contrary</hi> to Charity: it weeps at others Proſperity, and re<g ref="char:EOLhyphen"/>joyces at others Adverſity.</p>
+            <pb n="40" facs="tcp:105689:28"/>
+            <p n="196">196. <hi>Jer.</hi> 6.16. <hi>Enquire for the old way:</hi> not the <hi>old</hi> Religion of <hi>cur<g ref="char:EOLhyphen"/>ſed</hi> Antichriſt, but the way of the Pa<g ref="char:EOLhyphen"/>triarchs, Prophets, and Apoſtles, the way of Holineſs.</p>
+            <p n="197">197. <hi>Job</hi> 22.30. The <hi>innocent de<g ref="char:EOLhyphen"/>liver the Iſland:</hi> but the wicked pull down Gods judgments with violence. <hi>Add Strength O Lord to our zeal, Prayers, and Holineſs of Life.</hi>
+            </p>
+            <p n="198">198. I have been <hi>unconſtant</hi> in <hi>good</hi> things, but He that is <hi>Jehovah</hi> and <hi>changes not,</hi> can make me <hi>like</hi> Himſelf.</p>
+            <p n="199">199. To <hi>him that hath, ſhall be given. Lord,</hi> give me <hi>true</hi> Grace, though at <hi>firſt</hi> it be <hi>little,</hi> I know it will not <hi>long be ſo.</hi>
+            </p>
+            <p n="200">200. The Afflictions of the God<g ref="char:EOLhyphen"/>ly are but for a Time: <hi>light, momen<g ref="char:EOLhyphen"/>tary, ending</hi> at Death: But the wick<g ref="char:EOLhyphen"/>ed ſhall be tormented <hi>beyond</hi> Time. <hi>Their</hi> miſery <hi>begins</hi> at Death.</p>
+            <pb n="41" facs="tcp:105689:28"/>
+            <p n="201">201. <hi>Judas</hi> his Repentance was not <hi>true;</hi> for it was <hi>worldly</hi> ſorrow in the Apprehenſion of Juſtice, with<g ref="char:EOLhyphen"/>out Hatred of ſin, or deſire to <hi>glorifie God;</hi> I deſire <hi>all</hi> the <hi>contrary.</hi>
+            </p>
+            <p n="202">202. Many <hi>mock</hi> at Profeſſors and in Diſgrace call them <hi>men of the Spi<g ref="char:EOLhyphen"/>rit.</hi> Theſe are <hi>far</hi> from Grace: <hi>for if any man have not the ſpirit of Chriſt the ſame is none of his,</hi> Rom. 8.</p>
+            <p n="203">203.
+<q>
+                  <l>Take heed at Death you do not merit</l>
+                  <l>An heavy doom to ſcoff at Spirit.</l>
+               </q>
+            </p>
+            <p n="204">204. Reſtraint from Liberty is <hi>grievous</hi> to our Nature; we ſhould therefore be <hi>thankful</hi> for <hi>our</hi> Liber<g ref="char:EOLhyphen"/>ty, <hi>pity</hi> thoſe in Bonds, and <hi>remem<g ref="char:EOLhyphen"/>ber</hi> them in our Prayers, &amp;c. <hi>Heb.</hi> 13.3.</p>
+            <p n="205">205. <hi>David</hi> uſed Study, Prayer, Conference, <hi>All good</hi> Means, which made him a <hi>good</hi> Man; ſo ſhould we do if we would be men <hi>after Gods own Heart.</hi>
+            </p>
+            <pb n="42" facs="tcp:105689:29"/>
+            <p n="206">206. The conſideration of Gods Power is an help in Miſery: And they that depend thereon ſhall have a bleſ<g ref="char:EOLhyphen"/>ſed Iſſue. So <hi>Abraham.</hi>
+            </p>
+            <p n="207">207. Mortification is not in <hi>reſtrain<g ref="char:EOLhyphen"/>ing</hi> Grace, nor in Contemplation, nor in hard uſage of the Body: but in ſubduing ſelf will.</p>
+            <p n="208">208. They that fight a ſingle Com<g ref="char:EOLhyphen"/>bate are both murtherers: He that is killed in affection, the other in action; the <hi>one</hi> goes to Hell ſpeedily, the <hi>o<g ref="char:EOLhyphen"/>ther</hi> goes after, without unfeigned Repentance.</p>
+            <p n="209">209. To <hi>look up</hi> to <hi>God</hi> for aſſiſtance in all <hi>good</hi> Duties, and to give <hi>God</hi> all the Glory, when they are performed, is the part of a ſound Chriſtian.</p>
+            <p n="210">210. <hi>Private</hi> Prayer, a note of a true Chriſtian: few Hipocrites <hi>open</hi> their Corruptions to <hi>God:</hi> fewer pray ear<g ref="char:EOLhyphen"/>neſtly and heartily againſt Hypocriſie.</p>
+            <pb n="43" facs="tcp:105689:29"/>
+            <p n="211">211. The <hi>ſame</hi> Ends that make Hy<g ref="char:EOLhyphen"/>pocrites profeſs Chriſt: the <hi>ſame</hi> Ends ſhall make them <hi>fall</hi> from their Pro<g ref="char:EOLhyphen"/>feſſion. <hi>Whatſoever I have, Lord give it me in Truth.</hi>
+            </p>
+            <p n="212">212. <hi>They that mind earthly things their End is Damnation;</hi> What care ought I to have of my Mind and Thoughts, that the <hi>World</hi> choke not the <hi>good</hi> ſeed of <hi>Gods Word?</hi>
+            </p>
+            <p n="213">213. While I have time, I will do all the good poſſibly I can: for I am not ſure of to <hi>morrow. Lord make me wiſe to Salvation. Teach me ſo to num<g ref="char:EOLhyphen"/>ber my Dayes, that I may apply my Heart unto Wiſdome.</hi>
+            </p>
+            <p n="214">214. <hi>Dartings</hi> of Satan are with<g ref="char:EOLhyphen"/>out <hi>our Inclination,</hi> and without <hi>Pre<g ref="char:EOLhyphen"/>meditation.</hi>
+            </p>
+            <p n="215">215. A <hi>lazy</hi> Jade would rather have a foul Stable, then a fair Way. And ſometimes a better Horſe too.</p>
+            <pb n="44" facs="tcp:105689:30"/>
+            <p n="216">216. Many bewail their Loſſes, but never any Loſs to be compared to the Loſs of <hi>Gods</hi> Image; which <hi>Adam</hi> had, but loſt by Sin.</p>
+            <p n="217">217. All our Care ſhould be to <hi>repair Gods</hi> Image, tis Knowledge <hi>Coll.</hi> 3.10. Righteouſneſſe and <hi>true</hi> Holineſs, <hi>Eph.</hi> 4.24.</p>
+            <p n="218">218. We ſee divers <hi>good</hi> Men of <hi>divers</hi> Opinions; tis becauſe in <hi>A<g ref="char:EOLhyphen"/>dam</hi> we <hi>loſt</hi> our knowledge, and the <hi>beſt</hi> know <hi>but</hi> in <hi>part.</hi>
+            </p>
+            <p n="219">219. <hi>Whetting</hi> makes the Knife <hi>hot, bright,</hi> and <hi>ſharp:</hi> and <hi>Exerciſe</hi> makes a Chriſtian <hi>amiable, zealous</hi> and <hi>ſerviceable.</hi>
+            </p>
+            <p n="220">220 That is a <hi>good</hi> Religion, whoſe Foundation is <hi>true Humility;</hi> whoſe Building up, is in <hi>Sincerity,</hi> and whoſe Concluſion is with <hi>Perſeve<g ref="char:EOLhyphen"/>rance.</hi>
+            </p>
+            <pb n="45" facs="tcp:105689:30"/>
+            <p n="221">221. Many times we fail of our <hi>in<g ref="char:EOLhyphen"/>tended</hi> choice: as we ſay, The <hi>grey</hi> Mare is the <hi>better</hi> Horſe.</p>
+            <p n="222">222. If we cannot fit our wives to our mindes, we muſt fit our mindes to our wives, 1 <hi>Cor.</hi> 13. <hi>lat. end.</hi>
+            </p>
+            <p n="223">223. Sound Faith is Applying, <hi>Gal.</hi> 2.20. Juſtifying, <hi>Rom.</hi> 5. Sancti<g ref="char:EOLhyphen"/>fying, <hi>Act.</hi> 26 Saving, <hi>Eph.</hi> 2.</p>
+            <p n="224">224. We ſhould labour for <hi>hea<g ref="char:EOLhyphen"/>venly</hi> knowledge, becauſe 1. The things we learn are <hi>excellent,</hi> 2. They are <hi>holy</hi> and <hi>pure.</hi> 3. We are natural<g ref="char:EOLhyphen"/>ly <hi>blind</hi> and <hi>ignorant.</hi>
+            </p>
+            <p n="225">225. Three great Comforts to the <hi>godly</hi> in Trouble 1. Nothing is with<g ref="char:EOLhyphen"/>out Gods Providence, <hi>Mat.</hi> 6. and Chap. 10. Again, God will lay no more on then he will enable us to <hi>bear,</hi> 1 Cor. 10. and All ſhall work for the <hi>beſt,</hi> Rom. 8.</p>
+            <pb n="46" facs="tcp:105689:31"/>
+            <p n="226">226. There are four helps againſt hard Cenſuring of others, and five to preſerve our Neighbours good Name.</p>
+            <p n="227">227. (1.) To paſs by <hi>Infirmities,</hi> as <hi>God</hi> himſelf doth,, <hi>Mic.</hi> 7. (2.) To <hi>do</hi> as we would be <hi>done by. Mat.</hi> 7, (3) To look on the <hi>good</hi> in them, which we are about to <hi>conceive</hi> or <hi>ſprak</hi> evil of. (4.) To ſtand for a mans Innocency <hi>behind</hi> his Back. (5.) And to conſture things <hi>doubtful Charita<g ref="char:EOLhyphen"/>bly.</hi>
+            </p>
+            <p n="228">228. Three ways to get a <hi>good</hi> Name. (1.) To ſeek <hi>Gods</hi> Glory. (2.) To avoid Sin: and (3.) Not to Cenſure others <hi>unjuſtlie.</hi>
+            </p>
+            <p n="229">229. Our Exerciſe in Trouble is (1.) To walk by Faith. 2 <hi>Cor.</hi> 5. (2.) To Pray for Comfort. <hi>Pſal.</hi> 51. (3) To re<g ref="char:EOLhyphen"/>member the Dayes of Old. <hi>Pſal.</hi> 77. And (4.) To wait on <hi>God. Pſal.</hi> 123. <hi>Pſal.</hi> 130.</p>
+            <pb n="47" facs="tcp:105689:31"/>
+            <p n="230">230. In holy Conference, (1.) Our Corruptions are <hi>mortified,</hi> (2.) Our Graces <hi>encreaſed,</hi> (3.) Our Affections <hi>enflamed,</hi> (4) Our Prayers <hi>furthered,</hi> (5.) Our union <hi>ſtrengthened</hi> (6.) Our Purpoſe of <hi>godly</hi> Life <hi>ſweetned.</hi>
+            </p>
+            <p n="231">231. The Providence of <hi>God</hi> is, (1.) His <hi>taking notice</hi> of <hi>all</hi> things. (2.) His <hi>upholding all</hi> things. (3.) His <hi>diſpoſing all</hi> things.</p>
+            <p n="232">232. <hi>True Chriſtians</hi> differ from O<g ref="char:EOLhyphen"/>thers, (3.) In their Priviledges. (4.) In their Rewards:</p>
+            <p n="233">233. <hi>Carnal joy</hi> is like Lighten<g ref="char:EOLhyphen"/>ing <hi>four</hi> ways, (1.) 'Tis but a flaſh. (2.) It <hi>blaſts</hi> our Graces, (3.) A Darkneſs <hi>follows</hi> it. (4.) After it runs an Horrour like Thunder.</p>
+            <p n="234">234. <hi>Godly</hi> reſolutions are (1.) <hi>con<g ref="char:EOLhyphen"/>ditional,</hi> as if <hi>God</hi> gave <hi>Grace, &amp;c.</hi> (2.) They proceed from Love. (3.) They are Sincere and Laſting.</p>
+            <pb n="48" facs="tcp:105689:32"/>
+            <p n="235">235. There are four ends <hi>marre</hi> a <hi>good work</hi> when, 'tis done; 1. For <hi>Vain-glory.</hi> 2. For <hi>Merit.</hi> 3. For <hi>Feaer</hi> onely. 4. For <hi>hope of Worldly Reward:</hi> we may ſuper-add 5. when tis <hi>repented</hi> of.</p>
+            <p n="236">236. By Six Reaſons it appears there is a God, and by ſeven Argu<g ref="char:EOLhyphen"/>ments Atheiſme is damned for ever.</p>
+            <p n="237">237. 1. By the Conſcience in Man. 2. By the Devotion in Man. 3. By Gods <hi>glorious</hi> works. 4. By Gods <hi>fearful</hi> judgments. 5. By Gods <hi>numberleſs and precious</hi> Mercies. 6. By the <hi>due</hi> and <hi>timely</hi> accompliſhment of the Propheſies: and 7. By the Conſent of all men well in their <hi>wits.</hi>
+            </p>
+            <pb n="49" facs="tcp:105689:32"/>
+            <p n="238">238. In the <hi>Spiritual</hi> Combate obſerve we, (1) The Certainty of the On-ſet, (2.) The Power of the Foe, (3.) Our <hi>own</hi> weakneſs. (4.) The Danger if overcome. (5.) <hi>Gods</hi> Ayd, (6) our Aſſurance of Conqueſt, (7.) The Reward of Perſeverance.</p>
+            <p n="239">239. <hi>Outward</hi> things not <hi>over-ea<g ref="char:EOLhyphen"/>gerly</hi> to be ſought: (1.) Often-times 'tis <hi>hard</hi> to get them, (2.) 'Tis as hard to be <hi>content</hi> with them. (3.) 'Tis <hi>uncertain</hi> we ſhall <hi>keep</hi> them, (4.) 'Tis ſure we ſhall be <hi>ta<g ref="char:EOLhyphen"/>ken from</hi> them.</p>
+            <p n="240">240. (I may ſuperadd: they are by <hi>care</hi> a Burthen to our Minds: a Snare to our ſouls, hindring us from <hi>better</hi> things: Our <hi>greater</hi> ſtore makes our <hi>Grief</hi> the <hi>Greater</hi> at Parting: And we have the <hi>more</hi> to be accountable for.)</p>
+            <pb n="50" facs="tcp:105689:33"/>
+            <p n="241">241. We are to rejoyce at the Converſion of <hi>rich</hi> men; becauſe, 1. They may <hi>ſhelter</hi> Others, 2. They may <hi>read, hear,</hi> and <hi>ſtudy</hi> more, and get <hi>Knowledg</hi> to do <hi>good,</hi> 3. Their Ex<g ref="char:EOLhyphen"/>ample may draw Others to <hi>love</hi> and <hi>embrace</hi> Religion.</p>
+            <p n="242">242. A three fold Rule for good Works; they muſt be done. 1. In Faith, <hi>Rom.</hi> 14.23. 2. In Upright<g ref="char:EOLhyphen"/>neſs of Heart, 1 <hi>Sam.</hi> 12.24. 3. Aiming at <hi>Gods Glory,</hi> 1 <hi>Cor.</hi> 10.31.</p>
+            <p n="243">243. Natural men are <hi>dead</hi> in <hi>four</hi> Reſpects, 1. Bound as <hi>Lazarus. Job.</hi> 11.44. 2. Without <hi>ſpiritual</hi> Motion, 3. <hi>Inſenſible</hi> of their Sins, or <hi>Gods</hi> Wrath, 4. <hi>Stinking:</hi> So be <hi>Wicked</hi> men in the Eyes of <hi>God</hi> and the <hi>godly.</hi>
+            </p>
+            <p n="244">244. <hi>God</hi> hears not his Childrens Prayers <hi>immediately,</hi> that they may be <hi>ſeven</hi> times the <hi>better</hi> by their Affli<g ref="char:EOLhyphen"/>ctions, as Gold by the Fire.</p>
+            <pb n="51" facs="tcp:105689:33"/>
+            <p n="245">245. 1. To <hi>try</hi> their Faith <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Patience, 2. To make them <hi>more humble,</hi> 3. <hi>More earneſt</hi> in Prayer. 4. More <hi>weaned</hi> from the World. 5. More <hi>fellow-feeling</hi> of Others Grief. 6. To eſteem his Grace more, 7. To give Him the more <hi>Glory.</hi>
+            </p>
+            <p n="246">246. Our Preparation for CHRIST ſtands in <hi>four</hi> things, 1. Watching. 2. Believing, 3. Repenting, 4. Di<g ref="char:EOLhyphen"/>ligence.</p>
+            <p n="247">247. We ought to ſerve <hi>God</hi> upon a three. fold Obligation; for he hath 1. Created us, 2. Redeemed us. 3. Preſerved us.</p>
+            <p n="248">248. We ought to ſerve <hi>God</hi> upon a <hi>four</hi> fold Advantage. 'Tis 1. <hi>Ho<g ref="char:EOLhyphen"/>nourable,</hi> 2. <hi>Profitable,</hi> 3. <hi>Com<g ref="char:EOLhyphen"/>fortable</hi> at Death: and 4. <hi>Eaſie<g ref="char:punc">▪</g>
+               </hi> Mat 11. <hi>laſt.</hi>
+            </p>
+            <pb n="52" facs="tcp:105689:34"/>
+            <p n="249">249. Without the Fear of <hi>God</hi> we cannot ſerve Him: The Fear of <hi>God</hi> is to <hi>depart</hi> from Evil, and to <hi>do</hi> Good.</p>
+            <p n="250">250. Three marks of <hi>true</hi> Fear. (1.) It is <hi>clean: Pſalm</hi> 119. (2.) It ſprings from Love, (3.) It makes us eſchew <hi>ſecret</hi> Sin, like <hi>Joſeph,</hi> who had Privacy, Importunity, and Opportu<g ref="char:EOLhyphen"/>nity. <hi>Gen.</hi> 39.</p>
+            <p n="251">251. <hi>God</hi> often takes from his Children that which is their Chiefe joy; but Faith will overcome <hi>natural</hi> Affections.</p>
+            <p n="252">252. The Examples of the Saints are three-fold. (1.) <hi>Extraordinary.</hi> as <hi>Phineas</hi> and <hi>Elias.</hi> (2.) <hi>Sinful,</hi> as their failings, (3.) <hi>Good,</hi> as in <hi>ho<g ref="char:EOLhyphen"/>ly</hi> Duties; in theſe <hi>laſt</hi> onely, they are imitable, 1 <hi>Cor.</hi> 11.1.</p>
+            <pb n="53" facs="tcp:105689:34"/>
+            <p n="253">253. The fals of the Saints teach us, 1. No man is without Sin, 2. We muſt with them <hi>repent</hi> of Sin, 3. We muſt be <hi>Watchful,</hi> becauſe they fell. 4. We muſt be <hi>Merciful,</hi> as our <hi>Hea<g ref="char:EOLhyphen"/>venly</hi> Father, to forgive them that of<g ref="char:EOLhyphen"/>fend us.</p>
+            <p n="254">254. Examples do ſhew us, that Godlineſs is no Novelty, 2. No Im<g ref="char:EOLhyphen"/>poſſibility.</p>
+            <p n="255">255. Pleaſures muſt be uſed for God, <hi>viz.</hi> 1. To fit us for our <hi>gene<g ref="char:EOLhyphen"/>ral</hi> or <hi>particular</hi> Calling, 2. To raiſe our minds higher, 3. To fit us to leave this World, ſeeing its Vani<g ref="char:EOLhyphen"/>ty.</p>
+            <pb n="54" facs="tcp:105689:35"/>
+            <p n="256">256. We ſhould Catechize Chil<g ref="char:EOLhyphen"/>dren, becauſe, 1. Without a Foun<g ref="char:EOLhyphen"/>dation, no Building can be <hi>raiſed.</hi>
+            </p>
+            <p n="257">257. 2. That they may be able to give a Reaſon of their Faith.</p>
+            <p n="258">258. 3. That they may be <hi>fit</hi> to <hi>pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fit</hi> by Sermons after-ward.</p>
+            <p n="259">259. 4. <hi>God</hi> ſets down the Man<g ref="char:EOLhyphen"/>ner of a Catechiſme, <hi>Heb.</hi> 6.2, 3.</p>
+            <p n="260">260 5. If we do not teach them <hi>Gods</hi> Catechiſme: The Devil will teach them his to be ſure.</p>
+            <pb n="55" facs="tcp:105689:35"/>
+            <p>Apocrypha is not canonical Scripture upon a <hi>Various</hi> account.</p>
+            <p n="261">261. The End of <hi>Malachy</hi> ſpeaks of <hi>John</hi> the Baptiſt, and <hi>Matthew</hi> next of all ſpeaks of him, <hi>Mal.</hi> 4.5. <hi>Mat.</hi> 3.1. &amp; ch. 11.14.</p>
+            <p n="262">262. The Apocrypha is erro<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <hi>Tobit</hi> 6. The Devil is ſaid <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ven away with <hi>Smelling:</hi> The ſto<g ref="char:EOLhyphen"/>ry of <hi>Judith</hi> is <hi>fabulous,</hi> Eccl. 46.13. <hi>Samuel</hi> prophecyed after his <hi>Death.</hi>
+            </p>
+            <p n="263">263. The Apocrypha is <hi>impious;</hi> the Book of <hi>Machabees</hi> commends a man for <hi>killing</hi> Himſelf.</p>
+            <pb n="56" facs="tcp:105689:36"/>
+            <p n="264">264. 'Tis <hi>mendacious</hi> and tels lyes<g ref="char:punc">▪</g> In the Song of the three Children, the Flame aſcended fourty nine Cubies: And in the ſtory of <hi>Suſanna, Daniel</hi> is termed a <hi>young Child.</hi>
+            </p>
+            <p n="265">265. The Church of <hi>God</hi> hath not received them for <hi>Canonical:</hi> though Antichriſt hath to uphold his Filthi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Devil has five notable devices.</p>
+            <p n="266">266. If he can, he labours to keep us in <hi>Ignorance.</hi>
+            </p>
+            <p n="267">267. If he fail therein, he will keep us from Practice.</p>
+            <p n="268">268. If he fail therein, he will keep us from Reverence, and make us pre<g ref="char:EOLhyphen"/>ſumptuous.</p>
+            <pb n="57" facs="tcp:105689:36"/>
+            <p n="269">269. If he fail therein, he will keep us from Cheerfulneſs.</p>
+            <p n="270">270. If he fail therein, he will keep us from Perſeverance, that we may fall <hi>ſhort</hi> of our Work, and our Wages.</p>
+            <p n="271">271. Many <hi>hope</hi> well: yet would be <hi>non-pluſt;</hi> if any ſhould ask them, <hi>What Ground have you for your Hope?</hi>
+            </p>
+            <p n="272">272. Hope is taken three wayes. 1. For the Object of Hope, 2. For the Grace of Hope, 3. For the Ground of Hope.</p>
+            <p n="273">273. Three ſorts have no Hope: 1. Thoſe in a <hi>natural</hi> Eſtate. 2. Thoſe which are Hypocrites. 3. <hi>Preſumptuous</hi> Sinners.</p>
+            <pb n="58" facs="tcp:105689:37"/>
+            <p n="274">274. <hi>Four</hi> ſorts have Hope. 1. Thoſe who <hi>rely</hi> on <hi>God,</hi> though Means fail, 2. Who will not uſe <hi>
+                  <g ref="char:V">Ʋ</g>nlawful</hi> means, 3. Who <hi>reſt</hi> on <hi>God</hi> in the uſe of means, 4. That <hi>leave</hi> the things <hi>preſent</hi> for Hope of things <hi>future.</hi>
+            </p>
+            <p n="275">275. Means to <hi>get</hi> Hope are, 1. To <hi>repent</hi> of our Sins, 2. To <hi>acquaint</hi> our ſelves with Scripture, <hi>Rom.</hi> 15.4. 3. To look to <hi>former</hi> Experience. 4. To <hi>Pray</hi> to the <hi>God</hi> of <hi>Hope.</hi>
+            </p>
+            <p n="276">276. Effectual Prayer muſt be thus. 1. We muſt not <hi>regard</hi> Wickedneſs. 2. We muſt be <hi>true</hi> Worſhippers. 3. <hi>Feele</hi> our Wants, 4. Be <hi>Fervent.</hi> 5. Pray in <hi>Chriſts</hi> Name, 6. With zeal for <hi>Gods</hi> Glory. <hi>Pſal.</hi> 79.7. Be <hi>Merciful</hi> to the Poor, and <hi>hear</hi> their Cry.</p>
+            <pb n="59" facs="tcp:105689:37"/>
+            <p n="277">277. <hi>God</hi> will <hi>hear</hi> his Children. 1. Becauſe of his Goodneſs, 2. Be<g ref="char:EOLhyphen"/>cauſe of his Promiſes, 3. Becauſe all Fleſh ſhall come to him, <hi>Pſal.</hi> 65.</p>
+            <p n="278">278. <hi>God</hi> hears, 1. Our Prayers. 2. Our Deſires, 3. Our Meaning. 4. Our Miſeries, 5. Others for us. 6. Us for Others, 7. <hi>Chriſt</hi> for all.</p>
+            <p n="279">279. The way to <hi>grow</hi> in Grace is. 1. To uſe the <hi>pure</hi> Means, 2. With a <hi>pure</hi> Heart, 3. <hi>
+                  <g ref="char:V">Ʋ</g>nweariedly.</hi>
+            </p>
+            <p n="280">280. <hi>A man</hi> thinks his Jeſting a <hi>wit<g ref="char:EOLhyphen"/>ty</hi> Ornament; but <hi>God</hi> accounts it <hi>fooliſh</hi> and <hi>uncomly, Eph.</hi> 5.</p>
+            <p n="281">281. I ſee in ſome <hi>Wicked</hi> Swearers the Tyranny of Sin: I thank <hi>God</hi> for freeing me <hi>not only</hi> from Hell, but al<g ref="char:EOLhyphen"/>ſo from the Cruelty and Dominion of Sin.</p>
+            <pb n="60" facs="tcp:105689:38"/>
+            <p n="282">282 After I have <hi>Prayed,</hi> me thinks <hi>God</hi> ſaith; <hi>According to thy Faith, be it unto thee.</hi> I therefore labour to <hi>be<g ref="char:EOLhyphen"/>lieve,</hi> that <hi>God</hi> will grant <hi>what I de<g ref="char:EOLhyphen"/>ſire;</hi> nay, <hi>more</hi> then I can <hi>ask</hi> or <hi>think</hi> upon.</p>
+            <p n="283">283. Oh! That I could <hi>alwayes</hi> have an <hi>humble</hi> Soul, Then <hi>God</hi> would <hi>dwell</hi> with me (yea <hi>in</hi> me) and I ſhould be <hi>capable</hi> of Grace, and <hi>content</hi> with <hi>any</hi> thing: I ſhould be <hi>Wiſe, Gracious, Peaceable, Gentle, Ho<g ref="char:EOLhyphen"/>ly, Heavenly-Minded.</hi> LORD, give me humility, and then I ſhall <hi>ſin<g ref="char:EOLhyphen"/>cerely ſerve</hi> THEE.</p>
+            <pb n="61" facs="tcp:105689:38"/>
+            <p n="284">284. The Charriots of Iſrael, and the Horſ-men thereof, are the <hi>Faith<g ref="char:EOLhyphen"/>ful,</hi> whoſe Prayers and Tears prevail more then Weapons of War. There<g ref="char:EOLhyphen"/>fore an Ancient ſayes; <hi>Better is one Saint Praying,</hi> then twenty Souldiers <hi>fighting. Job</hi> ſayes the <hi>innocent</hi> ſhall <hi>deliver</hi> the Iland: <hi>How much</hi> then is every Nation <hi>beholding to the godly,</hi> that live <hi>amongſt them?</hi>
+            </p>
+            <p n="285">285. Some hear much, reform no<g ref="char:EOLhyphen"/>things: <hi>Profeſs</hi> Religion, but deny the Power thereof. LORD, give me Soundneſs, that I may walk <hi>uprightly</hi> before thee, though with <hi>much</hi> Hard<g ref="char:EOLhyphen"/>neſs: I know I ſhall not want Op<g ref="char:EOLhyphen"/>poſition: the Devil, my Corruption, and the Scoff of the <hi>Wicked.</hi> Yet I <hi>de<g ref="char:EOLhyphen"/>ſire</hi> Courage and Reſolution: for thy Yoak is <hi>eaſie,</hi> and <hi>thy</hi> Burthen <hi>Light</hi> unto him that has thine holy Spirit. <hi>Mat.</hi> 11. <hi>laſt.</hi>
+            </p>
+            <pb n="62" facs="tcp:105689:39"/>
+            <p n="286">286. I have <hi>loſt</hi> and <hi>forgot</hi> many <hi>ſweet</hi> Meditations for want of <hi>Wri<g ref="char:EOLhyphen"/>ting:</hi> I therefore will hence-forth <hi>Write</hi> them for fear of <hi>Forgetting:</hi> I will <hi>Write</hi> them for the <hi>good</hi> of O<g ref="char:EOLhyphen"/>thers: But LORD write THOU them in my Heart, by the <hi>Bleſſed</hi> Spi<g ref="char:EOLhyphen"/>rit, that I may have Good of them <hi>my ſelf.</hi>
+            </p>
+            <p n="287">287. As I walked through the Corn-Field, I conſidered thy Bounty of <hi>God</hi> towards Man; the <hi>great</hi> In<g ref="char:EOLhyphen"/>creaſe <hi>God</hi> gives: and I was made <hi>mind<g ref="char:EOLhyphen"/>ful</hi> of the Reſurrection: Our Bodies muſt <hi>firſt Dye</hi> before they <hi>quicken.</hi>
+            </p>
+            <p n="288">288. Some thinking to come by Ri<g ref="char:EOLhyphen"/>ches a <hi>more ſpeedy</hi> way then <hi>God</hi> hath appointed, come to <hi>loſe</hi> their <hi>Lives;</hi> and ſome thinking to come to Heaven a more <hi>eaſie</hi> and <hi>broad</hi> way then <hi>God</hi> hath <hi>appointed,</hi> loſe their <hi>Souls.</hi>
+            </p>
+            <pb n="63" facs="tcp:105689:39"/>
+            <p n="289">289 <hi>Moſes</hi> lift the Serpent in the Wilderneſs, that the Iſraelites being <hi>ſtung</hi> might <hi>look</hi> up to it and be cured: Moſes was <hi>therein</hi> (as in <hi>other</hi> things) an Inſtrument of their <hi>temporal</hi> good as well as <hi>ſpiritual;</hi> ſo ſhould the <hi>godly</hi> be to each other, mutual Helps for <hi>this</hi> Life, as well as for a <hi>better.</hi>
+            </p>
+            <p n="290">290: There were Serpents in the Wilderneſs even amongſt <hi>Gods</hi> Iſra<g ref="char:EOLhyphen"/>el: Are there Serpents, <hi>biting</hi> Serpents even in <hi>Gods Church?</hi> I will not look to live at <hi>caſe;</hi> I will labour to be <hi>Watchful.</hi> He that flies from <hi>our Church</hi> to <hi>Amſterdam,</hi> be<g ref="char:EOLhyphen"/>cauſe we have Corruptions, is like one in <hi>Graveſend-Barge,</hi> who becauſe there is ſwearing, <hi>fil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy</hi> talk, and <hi>idle</hi> Songs, he <hi>leapes</hi> into the <hi>Thames:</hi> Every <hi>regenerate</hi> man has <hi>Remain<g ref="char:EOLhyphen"/>ders</hi> of Sin; ſo, no doubt, ſhall e<g ref="char:EOLhyphen"/>very <hi>Reformed</hi> CHURCH; till that time come, that <hi>no unclean</hi> thing ſhall
+<pb n="64" facs="tcp:105689:40"/>
+               <hi>enter.</hi> Let me <hi>enjoy</hi> the Means; be <hi>ſorry</hi> for things <hi>amiſs;</hi> and <hi>pray</hi> for what I cannot <hi>help.</hi>
+            </p>
+            <p n="291">291. <hi>Singing</hi> Pſalms is a Duty of <hi>every Chriſtian,</hi> becauſe it <hi>ſtirs</hi> up zeal, is a Part of Gods Worſhip: I will therefore make Conſcience of <hi>this</hi> Duty, which <hi>Chriſt</hi> himſelf pra<g ref="char:EOLhyphen"/>ctiſed: If through Forgetfulneſs or Lumpiſhneſs I omit it, yet I will not <hi>mock</hi> at Others that do it.</p>
+            <p n="292">292. We muſt Sing with <hi>Grace,</hi> exerciſing the Graces of <hi>God</hi> wrought in our heart; we muſt ſhew the de<g ref="char:EOLhyphen"/>ſires of our Hearts, and <hi>Remember Gods</hi> Benefits: Our Songs muſt <hi>be Spiritual,</hi> ſuch as are <hi>penned</hi> by the <hi>Holy</hi> Spirit, ſuch as are for our <hi>ſpiri<g ref="char:EOLhyphen"/>tual</hi> good, ſuch as will <hi>make</hi> us <hi>more ſpiritual;</hi> we cannot but be <hi>more ſpi<g ref="char:EOLhyphen"/>ritual,</hi> if we uſe to ſing Pſalms <hi>a<g ref="char:EOLhyphen"/>right,</hi> we muſt ſing <hi>to God</hi> with <hi>Re<g ref="char:EOLhyphen"/>verence</hi>
+               <pb facs="tcp:105689:40"/>of His <hi>Preſence,</hi> which <hi>under<g ref="char:EOLhyphen"/>ſtanding,</hi> and <hi>aiming</hi> at <hi>Gods Glory.</hi>
+            </p>
+            <p n="293">293. I have run into an Errour for want of <hi>taking heed;</hi> having been <hi>told</hi> of my Errour, I have been <hi>taught</hi> what to eſchew another time: <hi>Quae nocent, docent:</hi> Thoſe things that <hi>hurt</hi> me ſhall <hi>inſtruct</hi> me; One fault ſhall <hi>prevent</hi> Another, not <hi>fore-run</hi> Ano<g ref="char:EOLhyphen"/>ther; ſo I ſhall grow the <hi>better</hi> for my Failings.</p>
+            <p n="294">294. When I come in the Coun<g ref="char:EOLhyphen"/>trie, and hear the Faults of Citizens ſpoken of, or any where hear the Faults of profeſſors mentioned, <hi>then</hi> I learn what to <hi>eſchew;</hi> I would <hi>glad<g ref="char:EOLhyphen"/>ly</hi> deal by Religion, as men by their Wares, <hi>Perſwade</hi> men to it.</p>
+            <p n="295">295. I find when I err in Judgment, or am <hi>looſe</hi> in Speech, or ſeem to countenance <hi>profaneneſs</hi> in Company,
+<pb n="66" facs="tcp:105689:41"/>the Bites of my Conſcience drives me to <hi>Humiliation,</hi> my Humiliation <hi>breeds Peace;</hi> I <hi>gain</hi> by my <hi>Sins;</hi> but ſhall I therefore <hi>Sin? God forbid.</hi> I may not do <hi>evil,</hi> that <hi>good</hi> may come of it. I deſire to make a <hi>good</hi> uſe of my Sins <hi>paſt,</hi> that they may <hi>prevent</hi> Sins to <hi>come.</hi>
+            </p>
+            <p n="296">296. I have oft diſcourſed with them that had <hi>good</hi> Knowledg in the works of <hi>Nature,</hi> as alſo of <hi>Curious</hi> Arts: This I do not <hi>diſcommend,</hi> I would I could come near them: But there is One thing <hi>Neceſſary,</hi> which I have a <hi>longing</hi> deſire to <hi>Know,</hi> which is JE<g ref="char:EOLhyphen"/>SUS CHRIST and Him <hi>Crucified.</hi>
+            </p>
+            <p n="297">297. <hi>Gods</hi> Gifts be <hi>without</hi> Repen<g ref="char:EOLhyphen"/>tance. Whom He loves he loves to the End. If <hi>once</hi> I have Aſſurance He doth <hi>favour</hi> me, I may be ſure He will not <hi>utterly</hi> at <hi>any</hi> time <hi>forſake</hi> me.</p>
+            <pb n="67" facs="tcp:105689:41"/>
+            <p n="298">298. The coming of <hi>Chriſt,</hi> a<g ref="char:EOLhyphen"/>mong the <hi>Secrets</hi> of <hi>God,</hi> more <hi>ne<g ref="char:EOLhyphen"/>ceſſarily</hi> Concealed, then Revealed: For the godly are the <hi>better</hi> prepared; but the wicked will not take warning, though an Angel ſhould warn them from Heaven.</p>
+            <p n="299">299. I expect after my Health, Sick<g ref="char:EOLhyphen"/>neſs; after Sickneſs, Death; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter Death, Judgment: My <hi>only</hi> Deſire is, to give the LORD <hi>all</hi> my Heart in Health, that H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be my Comfort in Sickneſs, my Life in Death, and my <hi>Saviour</hi> at the time of my <hi>Account.</hi>
+            </p>
+            <p n="300">300. LORD, Teach me to number my Dayes.</p>
+            <p>LORD, Teach me to number my Sins.</p>
+            <p>LORD, Teach me to number thy Mercies.</p>
+            <p>LORD, Teach me to number thy Judgments.</p>
+            <p>LORD, Teach me to number thy Promiſes.</p>
+            <pb n="8" facs="tcp:105689:42"/>
+            <p>The <hi>Firſt</hi> ſhall teach me Wiſdome.</p>
+            <p>The <hi>Second</hi> ſhall teach me Humili<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>The <hi>Third</hi> ſhall teach me Thank<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lneſs.</p>
+            <p>The <hi>Fourth</hi> ſhall teach me Fear.</p>
+            <p>The <hi>Fifth</hi> ſhall teach me Hope.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105689:42"/>
+         </div>
+      </body>
+   </text>
+</TEI>
